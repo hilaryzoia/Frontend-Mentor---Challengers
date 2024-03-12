@@ -1,4 +1,5 @@
-Frontend Mentor -QR Code Componet
+Frontend Mentor - QR Code Componet
+
 [QR Code Component](https://github.com/hilaryzoia/Frontend-Mentor---Challengers/blob/main/README.md)
 
 Esse repositório é destinado as minhas soluções dos desafios da plataforma FrontEnd Mentor
