@@ -19,8 +19,7 @@
     <h2>Buscando Evolução 🚀</h2>
     <p> Este projeto me possibilitou colocar em prática meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre o que é FLEXBOX e como utilizar. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
     <h2>Deploy 🔥</h2>
-    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages  <a href="https://github.com/hilaryzoia/Frontend-Mentor---Challengers/blob/main/README.md"
-    title="Clique Aqui"> para visualizar o projeto.</p>
+    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages   <a href="https://github.com/hilaryzoia/Frontend-Mentor---Challengers/blob/main/README.md"> Clique Aqui</a> para visualizar o projeto.</p>
 </head>
 <body>
     
