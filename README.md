@@ -1,5 +1,5 @@
 Frontend Mentor -QR Code Componet
-[QR Code Component](https://www.google.com "Página inicial do Google")
+[QR Code Component](https://github.com/hilaryzoia/Frontend-Mentor---Challengers/tree/1942a9f0b4b636c876ce47fd3e6bcb403f8f297e")
 
 Esse repositório é destinado as minhas soluções dos desafios da plataforma FrontEnd Mentor
 
