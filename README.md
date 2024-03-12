@@ -9,13 +9,13 @@
     <h2>Olá, Seja Bem Vindo! 👋</h2>
     <p>Obrigado por conferir essa solução para esse desafio!!!<br>Vamos conferir de forma geral esse projeto.</p>
     <h2>Sobre o Desafio 🎯</h2>
-    <p>O desafio é reproduzir um componente QR Code de forma que pareça o mais próximo possivel do design fornecido.<br>Os usuários devem ser capazes de:<br>Visualizar e comparar a semelhança do design fornecido pela plataforma com design feito por mim<br>
-        Verificar os códigos inseridos no projeto<br>
-        Analisar e dar feedback sobre erros referentes a resolução
+    <p>O desafio é reproduzir um componente QR Code de forma que pareça o mais próximo possivel do design fornecido.<br>Os usuários devem ser capazes de:<br>- Visualizar e comparar a semelhança do design fornecido pela plataforma com design feito por mim<br>
+        - Verificar os códigos inseridos no projeto<br>
+        - Analisar e dar feedback sobre erros referentes a resolução
     <h2>Layout 🎨</h2>
     <p>É possivel verificar os modelos do layout na pasta da aplicação ./design.</p>
     <h2>Tecnologias e Conceitos Utilizados 💻</h2>
-    <p>Marcação HTML5 semântica<br> CSS Custom Properties<br> FlexBox</p>
+    <p>- Marcação HTML5 semântica<br> - CSS Custom Properties<br> - FlexBox</p>
     <h2>Buscando Evolução 🚀</h2>
     <p> Este projeto me possibilitou colocar em prática meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre o que é FLEXBOX e como utilizar. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
     <h2>Deploy 🔥</h2>
