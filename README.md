@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Frontend Mentor - QR Code Componet</h1>
-    
-   <a href="file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html"
+      <a href="file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html"
     title="QR Code Component">
     </a>
     <br>
