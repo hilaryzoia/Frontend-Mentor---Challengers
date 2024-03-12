@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Frontend Mentor - QR Code Componet</h1>
-      <p><a
-    href="file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html"
-    title="QR Code Component</a></P>
+      <p><a> href="file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html"
+    title="QR Code Component</a>
+   </P>
     <br>
     <p>Esse repositório é destinado as minhas soluções dos desafios da plataforma FrontEnd Mentor</p>
     <h2>Olá, Seja Bem Vindo! 👋</h2>
