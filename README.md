@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Frontend Mentor - QR Code Componet</h1>
-    <br>
-   [QR Code Component](file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html)
+   <a href="file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html"
+    title="QR Code Component">
+    </a>
     <br>
     <p>Esse repositório é destinado as minhas soluções dos desafios da plataforma FrontEnd Mentor</p>
     <h2>Olá, Seja Bem Vindo! 👋</h2>
@@ -21,7 +22,8 @@
     <h2>Buscando Evolução 🚀</h2>
     <p> Este projeto me possibilitou colocar em prática meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre o que é FLEXBOX e como utilizar. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
     <h2>Deploy 🔥</h2>
-    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages [Clique Aqui]([QR Code Component](file:///C:/Users/diego/Downloads/qr-code-component-main/qr-code-component-main/index.html) para visualizar o projeto.</p>
+    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages  <a href="https://github.com/hilaryzoia/Frontend-Mentor---Challengers/blob/main/README.md"
+    title="Clique Aqui"> para visualizar o projeto.</p>
 </head>
 <body>
     
